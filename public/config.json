@@ -30,7 +30,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "e9cba3fe-bbff-4370-b540-23525382b016",
+      "applicationExtensionKey": "0b7fd8f5-b686-49ab-87f9-8c75cca348ff",
       "save": {
         "url": "https://marketingcloud-ca-201908.herokuapp.com/journeybuilder/save",
           "verb": "POST",
